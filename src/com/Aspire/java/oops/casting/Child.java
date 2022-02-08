@@ -5,6 +5,7 @@ public class Child extends Parent
 	int a=20;
 	public void bunglow()
 	{
+		
 		System.out.println("Child : 1 Bunglow");
 	}
 	public void bike()		//Child own
