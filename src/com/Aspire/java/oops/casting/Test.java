@@ -21,8 +21,6 @@ public class Test
 		c.jwellary();
 		System.out.println("a="+c.a);
 		
-		
-		
 		System.out.println("Child class object with Parent Reference");
 		//WebDriver driver=new ChromeDriver();
 		Parent pc=new Child(); //creating object of child class with reference to Parent class

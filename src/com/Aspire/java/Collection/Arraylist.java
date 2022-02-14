@@ -80,5 +80,6 @@ public class Arraylist
 		{
 			System.out.print(litr2.previous()+"  ");
 		}
+//Enumeration cursor-->it will not work for Arraylist
 	}
 }
